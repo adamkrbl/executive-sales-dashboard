@@ -433,3 +433,60 @@ Rozdiely v ziskovosti segmentov sú pravdepodobne ovplyvnené ďalšími faktorm
 - Preskúmať produktový mix jednotlivých segmentov.
 - Analyzovať priemernú hodnotu objednávky podľa segmentov.
 - Overiť, či rozdiely v ziskovosti súvisia s konkrétnymi kategóriami produktov.
+
+## Q22 - Loss-Making Orders
+
+### Pozorovanie
+
+Z celkového počtu 5 009 objednávok bolo 1 040 stratových, čo predstavuje približne 20,8 % všetkých objednávok.
+
+Stratové objednávky spolu vytvorili stratu 140 507,97, pričom priemerná strata na jednu stratovú objednávku bola 135,10.
+
+### Business Insight
+
+Približne každá piata objednávka bola predaná so stratou, čo predstavuje významný priestor na optimalizáciu.
+
+Výsledky podporujú predchádzajúce analýzy, ktoré ukázali, že vysoké zľavy majú výrazný negatívny vplyv na ziskovosť.
+
+### Odporúčanie
+
+- Identifikovať produkty a zákazníkov, pri ktorých najčastejšie vznikajú stratové objednávky.
+- Obmedziť poskytovanie vysokých zliav pri produktoch s nízkou maržou.
+- Zaviesť pravidelné monitorovanie podielu stratových objednávok ako dôležitého KPI.
+
+## Q23 - Average Order Value (AOV)
+
+### Pozorovanie
+
+Priemerná hodnota jednej objednávky dosiahla 455,20.
+
+### Business Insight
+
+Zákazníci v priemere utratia približne 455 za jednu objednávku. Tento ukazovateľ predstavuje dôležité KPI pre sledovanie nákupného správania zákazníkov a efektivity predajných aktivít.
+
+### Odporúčanie
+
+- Monitorovať vývoj Average Order Value v čase.
+- Podporovať cross-sell a up-sell stratégie s cieľom zvýšiť priemernú hodnotu objednávky.
+- Porovnať AOV medzi zákazníckymi segmentmi alebo regiónmi.
+
+## Q24 - Shipping Mode Performance
+
+### Pozorovanie
+
+Standard Class predstavuje najvyužívanejší spôsob dopravy a generuje najvyššie tržby aj celkový profit.
+
+Najvyššiu profit margin dosahuje First Class (13,93 %), rozdiely medzi jednotlivými spôsobmi dopravy sú však relatívne malé.
+
+### Business Insight
+
+Analýza nenaznačuje, že by spôsob dopravy výrazne ovplyvňoval ziskovosť objednávok.
+
+Najväčší objem predaja je realizovaný cez Standard Class, zatiaľ čo First Class dosahuje mierne vyššiu maržu.
+
+### Odporúčanie
+
+- Zachovať Standard Class ako hlavný spôsob dopravy.
+- Sledovať profitabilitu First Class pri produktoch s vyššou hodnotou.
+- Zamerať optimalizačné aktivity skôr na cenovú a zľavovú politiku než na spôsob dopravy.
+
