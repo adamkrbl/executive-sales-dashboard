@@ -1,6 +1,6 @@
 SELECT
     category,
-    SUM(sales) AS total_revenue
+    AVG(discount) AS avg_discount
 FROM analytics.superstore_clean
 GROUP BY category
-ORDER BY total_revenue DESC;
+ORDER BY avg_discount DESC;
